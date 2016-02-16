@@ -1,0 +1,3 @@
+git checkout -- filename => 将暂存区覆盖工作区
+git diff => 暂存区与工作区比较
+git diff HEAD -- filename => 版本库与工作区比较
